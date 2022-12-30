@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
 
-- 🌱 I’m currently learning  **Data Structures / Algorithms / SpringBoot **
+- 🌱 I’m currently learning  ** Python / React **
 
-- 💬 Ask me about  **JAVA / DSA / SpringBoot **
+- 💬 Ask me about  ** Scala / Play / JAVA / DSA **
 
 
 ## 🔗 Links
