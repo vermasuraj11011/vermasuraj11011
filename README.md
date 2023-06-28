@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning  ** Python / React **
 
-- 💬 Ask me about  ** Scala / Play / JAVA / Spring / DSA **
+- 💬 Ask me about  ** Scala / Play / JAVA / SpringBoot / DSA **
 
 
 ## 🔗 Links
