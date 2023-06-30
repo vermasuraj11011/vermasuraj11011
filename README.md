@@ -1,6 +1,9 @@
 <h1 align="center">Hello, World. 👋 I'm Suraj Verma</h1>
 
-<h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical and problem-solving skills. Also have knowledge on system design and AWS</h3>
+<h3 align="center">Highly motivated and result-driven software engineer, passionate about delivering high-
+quality software solutions.Experienced in developing robust backends using Play,
+SpringBoot, SQL, MongoDB, and AWS. Always eager to learn and stay up-to-date with the
+latest industry trends, and committed to continuously improving my skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
 
