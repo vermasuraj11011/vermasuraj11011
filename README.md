@@ -7,9 +7,9 @@ latest industry trends, and committed to continuously improving my skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
 
-- 🌱 I’m currently learning  ** Python / React **
+- 🌱 I’m currently learning  **Python / React**
 
-- 💬 Ask me about  ** Scala / Play / JAVA / SpringBoot / DSA **
+- 💬 Ask me about  **Scala / Play / JAVA / SpringBoot / DSA**
 
 
 ## 🔗 Links
