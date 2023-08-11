@@ -15,7 +15,7 @@ latest industry trends, and committed to continuously improving my skills</h6>
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
 </br>
-[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1NVRZLFQwzjj-pN95x-cZETo_ciehJipzfWyuYQSY748/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)
 
 
 <h2 align="left">☕ Let's Connect</h2>
