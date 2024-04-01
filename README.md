@@ -7,39 +7,88 @@ latest industry trends, and committed to continuously improving my skills</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
 
-- 🌱 I’m currently learning  **Python / ML**
+- 🌱 I’m currently learning  **Python / ML / Rust**
 
-- 💬 Ask me about  **Scala / Play / JAVA / SpringBoot / DSA**
-
+- 💬 Ask me about  **Scala / Play / JAVA / SpringBoot**
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
 </br>
 [![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)
 
-
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/surajverma008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajverma008" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-<a href="https://www.instagram.com/suraj_m0r0x7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://leetcode.com/vermasuraj/" target="blank"><img align="center"
-src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://www.linkedin.com/in/surajverma008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajverma008" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+    <a href="https://www.instagram.com/suraj_m0r0x7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://leetcode.com/vermasuraj/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 
-<h2 align="left">🛠 Languages and Tools:</h2>
-
+<h2 align="left">🛠 Languages:</h2>
 
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://spring.io" target="_blank"> <img src="https://logodix.com/logo/1614477.png" alt="SpingBoot" width="80" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.playframework.com/" target="_blank"> <img src="https://www.playframework.com/assets/images/logos/8fa87b8c379d500f2c7fa1c9816566f6-play_icon_reverse.svg" alt="SpingBoot" width="80" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-logo.svg" alt="AWS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
+
+<h2 align="left">🛠 Databases:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original-wordmark.svg" alt="cassandra" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="mongoDB" width="80" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 Frontend Stack:</h2>
+
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://www.thymeleaf.org/" target="_blank"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 Backend Frameworks:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://www.playframework.com/assets/images/logos/8fa87b8c379d500f2c7fa1c9816566f6-play_icon_reverse.svg" alt="play" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a  target="_blank"> <img  src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="spring" width="200" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 Cloud:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 DevOps:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 Other Tools:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apache spark" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h2 align="left">🛠 IDE:</h2>
+<p align="center">
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="intellij" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a target="_blank"> <img src="https://colab.google/static/images/icons/colab.png" alt="vscode" width="120" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
 <br>
 <h3 align="center">Happy Learning</h3>
