@@ -77,7 +77,8 @@ latest industry trends, and committed to continuously improving my skills</h6>
 <h2 align="left">🛠 Other Tools:</h2>
 <p align="center">
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="80" height="80"/></a>
+    <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://hive.apache.org/" target="_blank"> <img src="https://hive.apache.org/images/hive.svg" alt="hive" width="80" height="60"/></a>
 </p>
 
 <h2 align="left">🛠 IDE:</h2>
