@@ -90,5 +90,11 @@ latest industry trends, and committed to continuously improving my skills</h6>
     <a href="https://colab.google/" target="_blank"> <img src="https://colab.google/static/images/icons/colab.png" alt="google-colab" width="150" height="50"/></a>
 </p>
 
+<h2 align="left">🛠 Machine Learning:</h2>
+<p align="center">
+    <a href="https://ollama.com/" target="_blank" ><img src="https://ollama.com/public/ollama.png" alt="ollama" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://www.tensorflow.org" target="_blank" ><img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="tensorflow" width="150" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
 <br>
 <h3 align="center">Happy Learning</h3>
