@@ -1,100 +1,123 @@
-<h1 align="center">Hello, World. 👋 I'm Suraj Verma</h1>
-
-<h6 align="center">Highly motivated and result-driven software engineer, passionate about delivering high-
-quality software solutions.Experienced in developing robust backends using Play,
-SpringBoot, SQL, MongoDB, and AWS. Always eager to learn and stay up-to-date with the
-latest industry trends, and committed to continuously improving my skills</h6>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
-
-- 🌱 I’m currently learning  **Python / ML / Rust**
-
-- 💬 Ask me about  **Scala / Play / JAVA / SpringBoot**
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma-portfolio.netlify.app/)
-</br>
-[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16JgJmjzfbzTbjSPJmWlMGebJEUC2KN45/view?usp=sharing)
-
-<h2 align="left">☕ Let's Connect</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/surajverma008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajverma008" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-    <a href="https://www.instagram.com/suraj_m0r0x7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://leetcode.com/vermasuraj/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="suraj_m0r0x7" height="50" width="50" /></a>
-</p>
-
-
-<h2 align="left">🛠 Languages:</h2>
+<!-- ====================== HEADER ====================== -->
+<a href="https://github.com/vermasuraj11011">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Suraj%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Big%20Data%20%7C%20ML%20Explorer&descAlignY=58&descSize=18" alt="header"/>
+</a>
 
 <p align="center">
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+  <a href="https://github.com/vermasuraj11011">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B+I'm+Suraj+Verma;Backend+Engineer+%E2%9A%99%EF%B8%8F;Scala+%7C+Java+%7C+SpringBoot+%7C+Play;Currently+exploring+Python%2C+ML+%26+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+  </a>
 </p>
-
-<h2 align="left">🛠 Databases:</h2>
-<p align="center">
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original-wordmark.svg" alt="cassandra" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="google-bq" width="80" height="50"/><a>
-</p>
-
-<h2 align="left">🛠 Frontend Stack:</h2>
 
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.thymeleaf.org/" target="_blank"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="50" height="50"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<h2 align="left">🛠 Backend Frameworks:</h2>
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Suraj Verma
+role: Software Engineer
+focus: [ Robust Backends, Distributed Systems, Big Data ]
+stack: [ Scala, Java, SpringBoot, Play, SQL, MongoDB, AWS ]
+currently_learning: [ Python, Machine Learning, Rust 🦀 ]
+ask_me_about: [ Scala, Play, Java, SpringBoot ]
+motto: "Always shipping high-quality software, always leveling up."
+```
+
+> 💡 Highly motivated and result-driven software engineer, passionate about delivering
+> high-quality software solutions. I love turning hard problems into clean, reliable
+> systems — and I never stop learning.
+
+---
+
+## 🔗 Find Me Online
+
 <p align="center">
-    <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.playframework.com/" target="_blank"> <img src="https://www.playframework.com/assets/images/logos/9382fa0d736c5e7f01d0b7c2726a924d-play_full_color.svg" alt="play" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://flask.palletsprojects.com/"  target="_blank"> <img  src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="200" height="50"/></a>
+  <a href="https://surajverma-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>
+  <a href="https://drive.google.com/file/d/16JgJmjzfbzTbjSPJmWlMGebJEUC2KN45/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-000?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume"/></a>
+  <a href="https://www.linkedin.com/in/surajverma008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://leetcode.com/vermasuraj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+  <a href="https://www.instagram.com/suraj_m0r0x7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
-<h2 align="left">🛠 Cloud:</h2>
+---
+
+## 🛠️ Tech Stack
+
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,scala,python,javascript" alt="languages"/>
+</p>
+
+#### Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask" alt="backend"/>
+  <img src="https://www.playframework.com/assets/images/logos/9382fa0d736c5e7f01d0b7c2726a924d-play_full_color.svg" alt="play" height="48"/>
+</p>
+
+#### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="frontend"/>
+</p>
+
+#### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,cassandra,mongodb,gcp" alt="databases"/>
+</p>
+
+#### Big Data & ML
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" height="48"/>&nbsp;&nbsp;
+  <img src="https://hive.apache.org/images/hive.svg" alt="hive" height="48"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow"/>&nbsp;&nbsp;
+  <img src="https://ollama.com/public/ollama.png" alt="ollama" height="48"/>
+</p>
+
+#### Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,gitlab,git" alt="cloud-devops"/>
+</p>
+
+#### Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode" alt="ides"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="48"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain-wordmark.svg" alt="gcp" width="50" height="50"/> </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vermasuraj11011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermasuraj11011&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 </p>
 
-<h2 align="left">🛠 DevOps:</h2>
 <p align="center">
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> </a>
+  <img width="49%" src="https://streak-stats.demolab.com?user=vermasuraj11011&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
-<h2 align="left">🛠 Other Tools:</h2>
 <p align="center">
-    <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://hive.apache.org/" target="_blank"> <img src="https://hive.apache.org/images/hive.svg" alt="hive" width="80" height="60"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=vermasuraj11011&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
 </p>
 
-<h2 align="left">🛠 IDE:</h2>
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idera" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.jetbrains.com/pycharm/?var=1" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://colab.google/" target="_blank"> <img src="https://colab.google/static/images/icons/colab.png" alt="google-colab" width="150" height="50"/></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<h2 align="left">🛠 Machine Learning:</h2>
+---
+
 <p align="center">
-    <a href="https://ollama.com/" target="_blank" ><img src="https://ollama.com/public/ollama.png" alt="ollama" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.tensorflow.org" target="_blank" ><img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="tensorflow" width="150" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <i>⭐️ Thanks for stopping by — Happy Learning! ⭐️</i>
 </p>
 
-<br>
-<h3 align="center">Happy Learning</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer"/>
+
